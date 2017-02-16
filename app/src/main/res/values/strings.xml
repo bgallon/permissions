@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">permission</string>
+    <string name="check_permission">检查权限</string>
+    <string name="ok">好的</string>
+</resources>
